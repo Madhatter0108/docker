@@ -1,5 +1,5 @@
 mydb:
- image: mariabd
+ image: mariadb
  environment:
   MYSQL_ROOT_PASSWORD: Edureka
 
